@@ -17,3 +17,8 @@ This project predicts solar power generation using regression models based on en
 
 ## Output
 The app predicts solar power generation based on user inputs.
+
+## Deployment
+This project is deployed as a Streamlit-based ML application.
+Run locally using: streamlit run app.py
+
